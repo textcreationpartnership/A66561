@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tender salutation to the flock of God</title>
+            <author>Waldenfield, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66561</idno>
+            <idno type="STC">Wing W291</idno>
+            <idno type="STC">ESTC R33533</idno>
+            <idno type="EEBO-CITATION">13522779</idno>
+            <idno type="OCLC">ocm 13522779</idno>
+            <idno type="VID">99908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1559:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tender salutation to the flock of God</title>
+                  <author>Waldenfield, Samuel.</author>
+                  <author>Rallett, John.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 7: Samuel Waldingfield and Iohn Rallett.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:99908:1" rendition="simple:additions"/>
+            <head>A Tender Salutation TO THE Flock of God IN IRELAND.</head>
+            <p>DEarly tender and wel-beloved Friends, in the Covenant of Light and Life, you, whom the Lord in
+the riches of his love and tender mercy, hath viſited, with a day of Salvation, you do our Souls
+dearly ſalute, with bowels of unfeigned love in Chriſt Je<g ref="char:EOLhyphen"/>ſus, deſiring, that the
+viſitation of the Lord might be effectual unto you, for your ever<g ref="char:EOLhyphen"/>laſting Redemption, and
+Salvation; For the Lord hath viſited you in the <hi>needful time,</hi> with a glorious
+viſitation, and heard the cry of the poor, who ſaid in their hearts, <hi>Where is he now, that
+will ſhew us any good; or where is the Lord, that ſhould have pity on me? Is his mercy clear
+gone,
+<pb n="2" facs="tcp:99908:2"/>or will his Salvation forever be hid from me?</hi> Oh thou tender birth, the Lord
+hath heard thy crys: Oh thou that haſt been like a Dove without a Mate, and as a Pelican in the
+Wil<g ref="char:EOLhyphen"/>derneſs! Oh the days of thy comforting are come and coming: Wherefore keep thou in the
+tenderneſs before the Lord and he will have mercy on thee, thou that didſt ſit in
+<hi>So<g ref="char:EOLhyphen"/>litary Pl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces, and mourned a part for the
+Lord;</hi> he hath heard thy ſighings and thy groanings. O thou afflicted Daughter of
+<hi>Sion,</hi> the Lord will comfort thee, and lay thy Foundation with Stones of fair colours; (yea
+he hath laid thy Foundation) which is the Rock of Ages, the Foundation of all the righteous
+Generations, the Lord, Jeſus Chriſt, the elect and pretious; yea the chiefeſt of ten
+thouſand; Oh this is he whom we waited for: Friends keep to him, and let him not go, part not
+with him for any thing of this World; and though ſometimes you go through Tribulations and great
+Exer<g ref="char:EOLhyphen"/>ciſes, yet the Lord will comfort you, as you keep to him, and wait upon him in lowli<g ref="char:EOLhyphen"/>neſs
+before him; for he will be the Comfor<g ref="char:EOLhyphen"/>ter of his people.</p>
+            <p>So, dear Friends, faint not in your Journey, nor do not grow weary in your Tryals of
+<pb n="3" facs="tcp:99908:2"/>what ſort ſoever, but keep in the tenderneſs, and cry to the Lord, for he
+will hear you; for the full time is come: He has heard <hi>Jacobs</hi> crys, and ſeen
+<hi>Joſephs</hi> afflictions, and he will a<g ref="char:EOLhyphen"/>riſe and plead with the Nations for his Seeds
+ſake, that have been grieved and oppreſſed; for the cry of his tender people have entred his
+ears who is the Lord of Sabboth; And there<g ref="char:EOLhyphen"/>fore, dear Friends, wait in your <hi>Tents</hi> before
+him, and keep to your <hi>ſtrong Tower, the name of the Lord, which the righteous fled unto in
+all ages, and were preſerved;</hi> and as you keep here, the Lord will preſerve you when he
+ſhall try the Children of men, and viſit many with a day of Judgment in his ſore
+diſpleaſure, becauſe they have rebelled againſt him, and his power<g ref="char:EOLhyphen"/>ful Appearance by his
+Light and Spirit in their innermoſt parts.</p>
+            <p>Therefore we exhort you, <hi>dear and tender Friends,</hi> to bow before him who is the Light of
+the World and Salvation of mankind, the Lord Jeſus Chriſt, to whom every knee muſt bow in
+mercy or in Judgment, for the Lord will bow all before him, the <hi>tall Cedars and ſtur<g ref="char:EOLhyphen"/>dy
+Oakes,</hi> and all them that are like the <hi>Bulls of Baſhon.</hi> Therefore keep you in the
+tender<g ref="char:EOLhyphen"/>neſs
+<pb n="4" facs="tcp:99908:3"/>and ſelf-denying life of Jeſus, that ſo he may crown you with Immortallity,
+and eter<g ref="char:EOLhyphen"/>nal Life.</p>
+            <p>And dear Friends, meet often together to wait upon the Lord, in the true ſincerity of your
+Hearts, that ſo you may feel the <hi>Springs</hi> of <hi>Life</hi> to run through your
+Aſſemblies to com<g ref="char:EOLhyphen"/>fort every ſoul; then will you be fruitful un<g ref="char:EOLhyphen"/>to the Lord, and God will
+delight to bleſs you; and you will be like a well watered Garden, and the Lord will ſmell a
+ſweet Savour in and amongſt you, and when he ſhall paſs through the Land with his Judgments
+upon the wick<g ref="char:EOLhyphen"/>ed, then <hi>he will ſpare you, as a man ſpares his only Son that ſerves
+him.</hi>
+            </p>
+            <p>And ſo thus, <hi>dear Friends,</hi> take your poſſeſſi<g ref="char:EOLhyphen"/>on in the Munition of
+<hi>Rocks</hi> where your bread will be ſure, and the waters of Life will never fail you, in the
+Lord Jeſus Chriſt, who is the <hi>Rock</hi> of his People, and the ſtrong Tower of the
+Faithful; and ſo you being in him, fear not <hi>Tryals</hi> nor <hi>Tribulations,</hi> and though
+Diſtreſſes may come upon Nations; and great Judg<g ref="char:EOLhyphen"/>ments upon People who have been rebellious;
+yet in all this know, that the Lord is at work to get himſelf a glorious Name, amongſt the
+Gen<g ref="char:EOLhyphen"/>tiles,
+<pb n="5" facs="tcp:99908:3"/>in theſe <hi>Northern Iſlands,</hi> and in the Coun<g ref="char:EOLhyphen"/>tries round about. Oh!
+the day of the Lord's viſitation and breaking up of the Nations is now come, and a glorious
+Diſpenſation we are made partakers of, whom the Lord hath coun<g ref="char:EOLhyphen"/>ted worthy to be a kind of
+firſt-fruits unto him, and as Sons of the Morning, therefore now ſhine forth as Stars in the
+Firmament of Gods eternal Power, that ſo the Nations may ſee and hear of the Lords mighty
+workings in and amongſt us, that Nations may flow unto the goodneſs of our God, who is riſen
+and ari<g ref="char:EOLhyphen"/>ſing, and going over many Nations to prepare a People for himſelf through his
+Judgments.</p>
+            <p>And much of this we have ſeen, and more yet may come to paſs; for the great harveſt of the
+Lord Almighty is come, and he is gathering, and will gather from the four Winds under Heaven <hi>a
+royal people, and a choſen Generation</hi> to renown his great and glorious Name, and to ſpread
+his fame from one end of the Earth to the other. Therefore ye that have been gathe<g ref="char:EOLhyphen"/>red by a mighty
+Arm of Power, ſhine forth in the Light of the Lord, which now is riſen, for what may we ſay?
+<hi>Our Light is come, and the Glo<g ref="char:EOLhyphen"/>ry of the Lord is riſen over the Nations; and Kings
+<pb n="6" facs="tcp:99908:4"/>ſhall come to our Light, and Gentiles to the bright<g ref="char:EOLhyphen"/>neſs of the Lords
+ariſing.</hi>
+            </p>
+            <p>Therefore come away all you that waited for the Salvation of God unto your Souls, for its now
+revealed &amp; again made known in this lat<g ref="char:EOLhyphen"/>ter Age and Generation of the World, and ma<g ref="char:EOLhyphen"/>ny the Lord
+hath raiſed up, and ſent forth to Proclaim it to the Nations, for the gathering of the People
+unto Jeſus, who is the great Sa<g ref="char:EOLhyphen"/>viour of mankind, and Light of the World; for <hi>I have given
+him</hi> (ſaith the Lord) <hi>for a Light to lighten the Gentiles, and for to be my Salvation
+unto the ends of the Earth.</hi>
+            </p>
+            <p>
+               <hi>Whe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore, O all ye ends of the Earth,
+look unto him and be ye ſaved; for the Lord is a God that changeth not, therefore</hi> Jacob
+<hi>is not conſumed, nor</hi> Iſrael <hi>quite forſaken;</hi> for the Lord is a raiſing up
+of his ſpiritual <hi>Iſrael,</hi> which ſhall obtain the bleſſing; and happy will they
+all be who ſhall have a part with Gods <hi>Iſrael</hi> this day, though they may come through
+great Tribulation, and ſore Exerciſes, yet the Lord will reward them, as he ſaid to
+<hi>Abraham, Fear not</hi> Abraham, <hi>for I will be thy Buckler and thy Shield, and thy exceeding
+great Reward.</hi>
+            </p>
+            <p>And ſo, <hi>dear and tender Friends,</hi> faint not in
+<pb n="7" facs="tcp:99908:4"/>your Iourney, nor ſit down by the way, but go on in the Name of the Lord, and
+take your Poſſeſſion, in the everlaſting Light of <hi>Jeſus,</hi> and in the Kingdom of
+God forever, to reign with him under his Dominion, who is wor<g ref="char:EOLhyphen"/>thy, and over all God bleſſed
+forever; in whoſe Power and <hi>Life</hi> we ſalute you with a tender Salutation and a heavenly
+Greeting.</p>
+            <p>O all ye that are amongſt the Nations, and the ga<g ref="char:EOLhyphen"/>thered of the Lord, <hi>Peace</hi> be with
+you, and <hi>Mercy</hi> from God our Father, and from our Lord Jeſus Chriſt, in whoſe Name
+&amp; Power go on &amp; proſper, &amp; the increaſe of God be with you, and amongſt you, that
+ſo the <hi>Lords Thouſands</hi> may be gathered and redeemed; from whom may go forth living
+<hi>Praiſes</hi> and heavenly <hi>Thanks gi<g ref="char:EOLhyphen"/>ving,</hi> with <hi>Dominion,</hi> and <hi>Glory</hi>
+and <hi>Hallelujahs</hi> to God, who is worthy over all forever and forevermore, A<g ref="char:EOLhyphen"/>men, Amen.</p>
+            <closer>
+               <signed>
+                  <hi>From your Indeared Brethren, and Companions in the Lord Jeſus Chriſt,
+whoſe Souls deſire the proſperity of Sion, and the increaſing of the People and flock of
+God every where; whoſe names are,</hi> Samuel Waldingfield <hi>and</hi> Iohn Rallett.</signed>
+            </closer>
+            <postscript>
+               <p>Let this be read in the fear of the Lord in the <hi>Aſ<g ref="char:EOLhyphen"/>ſemblies</hi> of his People.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
